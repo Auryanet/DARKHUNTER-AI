@@ -286,7 +286,7 @@
             const micButton = document.getElementById('mic-button');
             
             // Google Gemini API Configuration
-            const API_KEY = 'AIzaSyChPbiKtVSMgGynJFElfzxaTJs5lJ8vGQ8';
+            const API_KEY = 'replace your api key';
             const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
             
             // Conversation history
